@@ -26,11 +26,11 @@ Programme de la séance
 5) Les graphes et leurs applications
 11/03
 6) Le clustering : algorithmes, et applications
-18/03
+18/03 \n
 7) ?
-25/03
+25/03 \n
 8) ?
-02/04
+02/04 \n
 9) ? Contrôle ?
-10/04
+10/04 \n
 10) Big Data is watching us 
